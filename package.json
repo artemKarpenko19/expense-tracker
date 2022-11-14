@@ -1,5 +1,5 @@
 {
-  "homepage": "/",
+  "homepage": "https://artemKarpenko19.github.io/expense-tracker",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -35,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
